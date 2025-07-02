@@ -3,8 +3,8 @@
 I'm a former associate pastor and church history instructor now transitioning into web development. I'm passionate about building meaningful digital experiences, especially those that help people connect, learn, and grow.
 
  🧰 Tech Stack
-- Languages: HTML, CSS, SASS, JavaScript, React, Swift, Python
-- Libraries/Frameworks:** Bootstrap, Node.js,
+- Languages: HTML, CSS, SASS, JavaScript, Swift, Python
+- Libraries/Frameworks:** Bootstrap, Node.js, React
 - Tools: Firebase, Git, GitHub, VS Code
 
  💻 Current Focus
